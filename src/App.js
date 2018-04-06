@@ -5,7 +5,7 @@ Math.logb = function(number, base) {
     return Math.log(number) / Math.log(base);
 };
 
-export default class Home extends Component {
+export default class App extends Component {
     constructor(props) {
         super(props);
         this.socket = null;
