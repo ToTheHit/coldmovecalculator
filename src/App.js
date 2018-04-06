@@ -20,12 +20,12 @@ export default class App extends Component {
                 Level: 0,
             },
             weight: {
-                HP: 2,
-                Hunger: 0.9,
-                Fatigue: 0.4,
-                Fear: 0.3,
-                Aggression: 1,
-                Caution: 0.7,
+                HP: 0,
+                Hunger: 0,
+                Fatigue: 0,
+                Fear: 0,
+                Aggression: 0,
+                Caution: 0,
                 Level: 1,
             },
             lin: {
