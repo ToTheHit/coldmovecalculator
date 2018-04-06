@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-//import './home.styles.css';
+import './home.styles.css';
 
 Math.logb = function(number, base) {
     return Math.log(number) / Math.log(base);
