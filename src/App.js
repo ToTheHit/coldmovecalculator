@@ -11,12 +11,12 @@ export default class App extends Component {
         this.socket = null;
         this.state = {
             impact: {
-                HP: '',
-                Hunger: '',
-                Fatigue: '',
-                Fear: '',
-                Aggression: '',
-                Caution: '',
+                HP: 0,
+                Hunger: 0,
+                Fatigue: 0,
+                Fear: 0,
+                Aggression: 0,
+                Caution: 0,
                 Level: 0,
             },
             weight: {
